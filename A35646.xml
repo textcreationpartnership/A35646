@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir John Lenthall Knight, Marshall of the Upper-Bench prison humbly presented to those in authority and to all rational and indifferent men.</title>
+            <author>Lenthall, John, Sir, 1625-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35646</idno>
+            <idno type="STC">Wing C995</idno>
+            <idno type="STC">ESTC R3641</idno>
+            <idno type="EEBO-CITATION">12245523</idno>
+            <idno type="OCLC">ocm 12245523</idno>
+            <idno type="VID">56928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56928)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 623:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir John Lenthall Knight, Marshall of the Upper-Bench prison humbly presented to those in authority and to all rational and indifferent men.</title>
+                  <author>Lenthall, John, Sir, 1625-1681.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenthall, John, --  Sir, 1625-1681.</term>
+               <term>Prisons --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56928:1"/>
+            <pb facs="tcp:56928:1" rendition="simple:additions"/>
+            <p>THE CASE OF Sir <hi>JOHN LENTHALL</hi> Knight, Marſhall of the <hi>Vpper-Bench</hi> priſon. Humbly Preſented to thoſe in AUTHORITY, AND To all Rational and indifferent men.</p>
+            <p>
+               <hi>London,</hi> Printed in the yeer 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:56928:2"/>
+            <pb n="1" facs="tcp:56928:2"/>
+            <head>THE CASE OF Sir JOHN LENTHAL Knight, Marſhal of the Upper-Bench Priſon.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F that malice which hath brought this affliction upon me could have been contented with ordi<g ref="char:EOLhyphen"/>nary and legall proſecution; and if my eſtate and livelihood were the things only in queſtion, and my good name not ſullied with infamous and filthy ſlanders, I ſhould in all probability rather patiently have ſate down under my ſufferings, then have been induc'd to lay open my condition unto the World. But ſince I cannot but be of opinion that many Per<g ref="char:EOLhyphen"/>ſons both of worth and conſcience, content to reſt in the firſt Repreſentations, may by this means be brought to a true and juſt knowledge of the whole matter, and conſequently be reduc'd to the mode<g ref="char:EOLhyphen"/>ration
+<pb n="2" facs="tcp:56928:3" rendition="simple:additions"/>of doing what is but juſt, and that my good Name, (which to an honeſt man ought to be dearer then life) may be in ſome meaſure retrived, I could not but put down as well the true circumſtances of my condition, as the violent and paſſionate proceedings of my proſecutors againſt me.</p>
+            <p>I have been theſe twenty two yeers together <hi>Mar<g ref="char:EOLhyphen"/>ſhall</hi> of the (Kings Bench, now the) <hi>upper Bench</hi> Priſon by Letters Patents under the great ſeal of <hi>England,</hi> wherein as I am inwardly ſatisfied to have behaved my ſelf uprightly and legally, ſo till this ſtorme overtook me, I hope it was without infamy or re<g ref="char:EOLhyphen"/>proach. But it is the misfortune of ſuch employ<g ref="char:EOLhyphen"/>ments as mine, that we muſt neceſſarily in doing our offices raiſe up to our ſelves enemies. For it is ſo difficult, if not impoſſible, to carry our ſelves even between <hi>Creditor</hi> and <hi>Debtor,</hi> that there is no avoid<g ref="char:EOLhyphen"/>ing of it, but one of them will be diſſatisfied. For if the <hi>Debtour</hi> be either unruly, or enable to put in ſecu<g ref="char:EOLhyphen"/>rity for his true impriſonment, and ſo kept ſafe, he ſtraight crieth out of <hi>Reſtraint,</hi> and harſh uſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge; if he put in ſecurity, and lie in the <hi>Rules,</hi> or legally go abroad about his occaſions with a Keeper, then does the <hi>Creditour</hi> cry out of too much Liber<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and it may be files for a Bill for an eſcape. So that let a man carry himſelf with all the care and circumſpecti<g ref="char:EOLhyphen"/>on which is poſſible, he ſhall be ſure to meet with clamours and enemies, and theſe ſo much the more, in regard that being perſons either in low condition or decayed fortunes, they account it ſomewhat either of eaſe or pleaſure to reville or vex thoſe whom they look upon as the inſtruments of their misfortunes.</p>
+            <pb n="3" facs="tcp:56928:3"/>
+            <p>Yet upon the diſſolution of the late Parliament there was an Oder obtained from the new Counſell of Sate, bearing the date the of <hi>April</hi> 1653. em<g ref="char:EOLhyphen"/>powring <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to enquire into all matters concerning <hi>Priſons</hi> and Keepers of Priſons; by vertue whereof, I was ſum<g ref="char:EOLhyphen"/>moned to appear before them; which I obeyed. But it was a wonder to me (who had been a faithfull Ser<g ref="char:EOLhyphen"/>vant to the Parliament in their moſt doubtfull and difficult times, and who had been conſtantly in all their commiſſions, and ſtuck to them throughout, when others declined them) to ſee Mr. <hi>Fountaine</hi> in the Chaire, one of the moſt active for the late King, and one by whoſe power and intereſt at <hi>Oxford,</hi> my place was given away for diſobeying a Warrant of the late Kings, dated the 23 of <hi>November</hi> 1653. for the diſcharge of <hi>William Cobb.</hi> Yet humbly ſub<g ref="char:EOLhyphen"/>mitting (as it was my duty) to the Authority ſet over me, and withall weighing with my ſelf the right that all Governours have to call whom they pleaſe to their aſſiſtance; beſides, hoping that Mr. <hi>Foun<g ref="char:EOLhyphen"/>taine</hi> had manifeſted unto them his hatred to his for<g ref="char:EOLhyphen"/>mer Principles and courſes, I, with all the ſub<g ref="char:EOLhyphen"/>miſſion I could, prepared my ſelf to give the beſt ſatisfaction that lay in my power unto that Com<g ref="char:EOLhyphen"/>mittee.</p>
+            <p>The <hi>General</hi> things they fell upon, were, firſt, about the <hi>Liſt</hi> of my <hi>Priſoners,</hi> a perfect and full copie whereof I delivered in. Next, about the <hi>ex<g ref="char:EOLhyphen"/>tent</hi> and liberty of the <hi>Rules</hi> of the <hi>Priſon;</hi> by which
+<pb n="4" facs="tcp:56928:4"/>means (as was alledged) there are many <hi>eſcapes</hi> occa<g ref="char:EOLunhyphen"/>ſioned, and <hi>Creditours</hi> extreamly delayed, if not ab<g ref="char:EOLhyphen"/>ſolutely defrauded. In anſwer to this, I ſhall on<g ref="char:EOLhyphen"/>ly ſay, That the Priſon-houſe being ſo little, as that it is not able to containe a fourth part of the Priſo<g ref="char:EOLhyphen"/>ners, my Predeceſſors in their ſeverall times, and that alwaies by permiſſion and appointment of the Judges, uſed to lodge them (having firſt taken ſecu<g ref="char:EOLhyphen"/>rity for their true imprſonment) in the houſes about, and that they call the <hi>Rules:</hi> Which, as it avoids a grand inconvenience (for otherwiſe every particular man muſt have a particular keeper, which were a charge to him inſupportable, or elſe the <hi>Marſhal</hi> of the Priſon were to maintaine them, and ſo he ſhould be a loſer by his office) ſo it brings this great ad<g ref="char:EOLhyphen"/>vantage and ſecurity to the Creditour, that the ſecu<g ref="char:EOLhyphen"/>rity being double the debt, it is thereby ſtrengthened, and the Creditor in better probability to recover his own. For if any eſcape be made, I am liable to pay the debt, and upon recovery had againſt me at Law, I either reſort to the ſecurity, or turne it over to the Creditour; by which means many have re<g ref="char:EOLhyphen"/>covered their debts, which probably otherwiſe they had not done<g ref="char:punc">▪</g> But theſe Bonds being of late doubted to be within the Stat. 33 <hi>H.</hi> 6. (though e<g ref="char:EOLhyphen"/>ver before held good, and ſo often adjudged) many have under this pretence, eſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped or violently broke Priſon, and thereby both defrauded the Creditors, and occaſioned great damages to be given againſt the Marſhall.</p>
+            <p>And although I have done nothing but what by Law was formerly accuſtomed and juſtifiable, yet
+<pb n="5" facs="tcp:56928:4"/>I deſire a difference may be made between <hi>voluntary</hi> and <hi>involuntary</hi> eſcapes, that is to ſay, eſcapes hap<g ref="char:EOLhyphen"/>pening either by my granting too much liberty, or by negligence or connivence; and thoſe which in deſpight of the ſtrength of the Priſon, the care and diligence of the watchmen, are oftentimes made by <hi>deſperate</hi> perſons, groaning under their <hi>wants,</hi> and impatient of <hi>reſtraint:</hi> And therefore I apeal to all the Nation, whether there was yet ever any debt re<g ref="char:EOLhyphen"/>covered againſt me for an eſcape, which I have not ſa<g ref="char:EOLhyphen"/>tisfied. And as I cannot be denied the liberty of a true <hi>Engliſhman,</hi> to make my beſt defence when I am impleaded at Law; ſo if it can be proved that any <hi>e<g ref="char:EOLhyphen"/>ſcape</hi> hath been <hi>wilfull</hi> in me, or that I ever took a peny of mony for granting any <hi>illegal</hi> Liberty, I ſhall be content to ſuffer all that which the malice of my adverſaries would inflict upon me.</p>
+            <p>Nor it is enough to ſay, that the beſt and moſt conſiderable Priſoners ſhould be put into the houſe, for ſo the more inſolvent ſhould be ſet at randome, and their debts by this means become deſperate. For the ſecurity of the others (beſides their owne repu<g ref="char:EOLhyphen"/>tation) renders them as ſafe in the Rules, as if they were cloſe; and there is many a man, that will ra<g ref="char:EOLhyphen"/>ther be bound in a bond of 1000 <hi>l.</hi> for a mans true impriſonment, then he bound with him in a bond of 100 <hi>l.</hi> debt.</p>
+            <p>But when they came to deſcend into <hi>particular</hi> mat<g ref="char:EOLhyphen"/>ters, it was very ſtrange to me to ſee Mr. <hi>Fountain</hi> (I will not ſay more like a feed Lawyer, or an enraged enemy, then a ſober judge) afford ſo much counte<g ref="char:EOLhyphen"/>nance to all Petitions and complaints that came in
+<pb n="6" facs="tcp:56928:5"/>againſt me, to ſtretch matter further then by Law they would endure. And when I deſir'd but Co<g ref="char:EOLhyphen"/>pies of Petitions, that I might be the better enabled to make my defence, utterly to refuſe me, and put me to anſwer upon the place: which when I endea<g ref="char:EOLhyphen"/>voured to do, as well as the ſmalneſs of the time, and my owne ſurpriſal would permit me, I was ſundry times reviled, many opprobrious ſpeeches, both againſt my ſelf and my neareſt relations, were pub<g ref="char:EOLhyphen"/>lickly uttered, without the leaſt control or check. The Witneſſes which I brought in order to my juſtification, were diſcountenanced; Mr. <hi>Fountain</hi> in the mean time privately commenting and gloſſing his owne conceptions, as I have reaſon to conceive, and writing them downe, ſo that things ſeemed to be carried on (I will not ſay it was by deſign, or in<g ref="char:EOLhyphen"/>juſtly) meerly in a manner to compaſs my ruine.</p>
+            <p>The Petitions and charges that came in, to look on the number, were a great many, on the weight of them, a very few. Some of them are either ſo falſe or inconſiderable, that they are not worth men<g ref="char:EOLhyphen"/>tioning here, as I have done otherwhere; ſome the very ſtating of my caſe imediately detects the malice and impertinency. But ſince that there is one parti<g ref="char:EOLhyphen"/>cularly inſiſted upon as a matter very horrid and ug<g ref="char:EOLhyphen"/>ly, I ſhall not forbear to ſet it down, that by the eſtimate of this grand buſineſs an account may be taken of the reſt.</p>
+            <p>And the buſineſs ſtands thus: One <hi>Iohn Guyet</hi> was committed to the upper Bench Priſon, <hi>Feb.</hi> 10. 1650. upon an action of Treſpaſs, at the ſuit of <hi>Edmund Child,</hi> but not upon <hi>Iudgement</hi>
+               <pb n="7" facs="tcp:56928:5"/>or <hi>Execution.</hi> This <hi>Guyet</hi> broke the Priſon-houſe, (he being kept in cloſe Priſon, together with four o<g ref="char:EOLhyphen"/>thers) in the night time, having burned down the win<g ref="char:EOLhyphen"/>dow with hot irons, poiſoned a fierce Maſtiſſe, and given ſome <hi>Opiate</hi> Medicine to the watchman, where<g ref="char:EOLhyphen"/>with he laid him in a dead ſleep all night; and by that means the ſaid <hi>Guyet</hi> went away in the night time by ladders of ropes provided for that purpoſe, as is pro<g ref="char:EOLhyphen"/>ved by many witneſſes.</p>
+            <p>Thereupon <hi>Child</hi> brings his Action of the caſe againſt Sir <hi>John Lenthal</hi> for 579 <hi>l.</hi> for the eſcape; and at a tryal at <hi>Guidhal</hi> had given him by the Jury (who fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l'd not to be his friends at a dead lift) the whole money and damages, 584 <hi>l.</hi> 13 <hi>s.</hi> 4 <hi>d.</hi> For reliefe of this verdict, I preferr'd a Bill in <hi>Chancery,</hi> to which he put in an unperfect anſwer, and ſate in contempt. Hereupon I mov'd at the <hi>Rolls</hi> for an <hi>Injunction,</hi> to ſtop proceedings a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Common Law;</hi> which the <hi>Maſter</hi> of the <hi>Rolls</hi> (being ſatisfied that <hi>Child</hi> in equity ought to have no more of me, then he could have reco<g ref="char:EOLhyphen"/>vered of <hi>Guyet</hi> at <hi>Common Law;</hi> and for that a man may lay an action of 10000 <hi>l.</hi> and yet poſſibly not recover 100 <hi>l.</hi> and for that this was the onely courſe I had left to make <hi>Child</hi> confeſs what his debt really was; he having already in his anſwer confeſſed 100 <hi>l.</hi> given by the Verdict more then was due to him) granted; as well for theſe reaſons, as that it had been the conſtant practice and rule of that Court, to grant injunctions upon the like occaſions. And whether I had not reaſon to ſeek for reliefe in <hi>Chan<g ref="char:EOLhyphen"/>cery</hi> or no, let any man judge: For though there were abundance of equitable circumſtances, which
+<pb n="8" facs="tcp:56928:6"/>I could not make out at my Tryal; yet by that (a<g ref="char:EOLhyphen"/>mong other things) which I ſaid before the <hi>Equitie</hi> was very evident.</p>
+            <p>Nay this Caſe among others was referr'd by the Parliaments Order of the ninteenth of <hi>Ian.</hi> 1653. to the Juſtices of the <hi>Upper Bench;</hi> who upon hearing of the whole matter, declared me not in fault for the eſcape, and the buſineſs therefore onely proper for the <hi>Chancery:</hi> wherein, being a Court of Equity, I was onely relievable: For certainly the <hi>Verdict</hi> was a ſtrange one; and the oppreſſion that lyes upon me by the means of it, as heavy, and of as ill example, as can be poſſible.</p>
+            <p>This is the great buſineſs as to the <hi>Execution</hi> of my <hi>Office;</hi> but becauſe the rage of my enemies was not content to ſtay here, but would ſtrike at my life as well as my <hi>livelihood,</hi> they have ſet abroach an old buſineſs voted ſcandalous by the Parliament many yeers ago, and threatned to try me for my life about it. The buſineſs ſtands thus.</p>
+            <p>
+               <hi>George Smithſon</hi> was committed to the upper Bench Priſon, June 13. 1637. where he carried himſelf with ſuch extream diſorder, that in the yeer 1640. he was put into the common goale, where he was not only ſo troubleſome, but alſo ſo dangerous to the Priſo<g ref="char:EOLhyphen"/>ners, that they petitioned for his removall. Here<g ref="char:EOLhyphen"/>upon I ordered him every night to be put into the houſe which is ſet apart for unruly Priſoners. There continuing his old manners, he was kept for ſome time, all which ſpace he was fed with victualls ſent from my own Table; and the Stewards of the houſe had expreſs order to take care that he ſhould be con<g ref="char:EOLhyphen"/>ſtantly
+<pb n="9" facs="tcp:56928:6"/>relieved. He died the 5 of <hi>Sept.</hi> 1640. A Co<g ref="char:EOLhyphen"/>roner ſate upon him, a Jury was ſworn, ſix Priſo<g ref="char:EOLhyphen"/>ners, and ſix neighbours, who found that <hi>Smithſon</hi> dyed by the viſitation of God, and not otherwiſe or by any other means, as appeares by the Record.</p>
+            <p>I thank God I have this comfort yet left me, that I can ſay, I finde not in my heart to thirſt after blood. And certainly theſe people, had they not been blind<g ref="char:EOLhyphen"/>ed by their owne malice, and carried on by an ex<g ref="char:EOLhyphen"/>tream deſire of my ruine, might have found our ſomewhat more probable to have employ'd their <hi>perjuries</hi> about, then for to ſay that I ſhould hazard my <hi>Salvation,</hi> my <hi>Reputation,</hi> my <hi>Life,</hi> the well-being of my <hi>Wife</hi> and <hi>Children,</hi> and all this for the blood of a poor <hi>Lunatick</hi> in Priſon, whom till that time I had never known, and from whoſe death I could draw no advantage.</p>
+            <p>The very ſame men that have reviv'd this com<g ref="char:EOLhyphen"/>plaint againſt me before this Committee, brought the ſame complaint to the Parliament ſeven or eight years ſince, at which time it was examined with all induſtry, ſcrutiny, earneſtneſs, and integrity poſſi<g ref="char:EOLhyphen"/>ble: all their owne examinations, and thoſe of what witneſs they could produce, a were taken; and ſeve<g ref="char:EOLhyphen"/>ral perſons were admitted by that Committee, in the name and behalf of the City, to take notice of all proceedings. The Committee after a full hearing, made the report to the Parliament, that they found the Accuſations falſe, and proſecuted without cauſe; whereupon, the 5 of <hi>Sept.</hi> 1645. they voted, <hi>That the complaints were raiſed and proſecuted without any ground at all,</hi> falſely, maliciouſly, <hi>and</hi> ſcandalouſly,
+<pb n="10" facs="tcp:56928:7" rendition="simple:additions"/>
+               <hi>and that</hi> William Pendred, Edward Jenks, Hannah <hi>his wife,</hi> James Freez, <hi>and</hi> Stephen Pratt <hi>were princi<g ref="char:EOLhyphen"/>pal inſtigators and proſecutors of theſe proccedings, and do deſerve ſevere and exemplary puniſhment;</hi> and according<g ref="char:EOLhyphen"/>ly referr'd it to a Committee to conſider what exem<g ref="char:EOLhyphen"/>plary puniſhment were fit to be inflicted upon them.</p>
+            <p>Nor indeed did they vote it <hi>malicious</hi> without ground, for <hi>Freeze</hi> &amp; <hi>Jenks,</hi> with one <hi>Magick</hi> (who is a great ſtickler in the buſineſs, though not ſo openly as the other) having been formerly Priſoner in the <hi>Upper Bench,</hi> and there very unruly and miſchievous, the Judges did remove them to <hi>Newgate,</hi> which firſt kind<g ref="char:EOLhyphen"/>led in them that malice, that hath ſeveral times ſince attempted my life.</p>
+            <p>Notwithſtanding all this, their wickedneſs was ſo reſtleſs, that though they ſaw how little they were able to ſatisfie any juſt men of the ground of their complaints, they had the impudence to renew the buſineſs again at the Committee for the <hi>Army;</hi> who alſo upon examination, voted, <hi>Aug.</hi> 24. 1649. to the ſame purpoſe as the Parliament had formerly done; yet after all theſe repulſes they have again brought it to this Committee, where it ſeems it receives freſh entertainment.</p>
+            <p>Theſe are the two principal things, out of which, with ſome other helps (I will not ſay additions of his owne) Mr. <hi>Fountain</hi> hath ſtuff'd his papers, and at laſt hatch'd a <hi>Report.</hi> But however it is, though it be not fitting for me to ſay, that he carried himſelf there rather like an <hi>Adverſary,</hi> then a <hi>Judge;</hi> ſo it ſhould ſeem he hath a mind, by the carriage of this buſineſs, that men ſhould finde him turne from a
+<pb n="11" facs="tcp:56928:7"/>Judge to a <hi>Sollicitor.</hi> For this report of his, he very aſſiduouſly promotes to the Committee of Parlia<g ref="char:EOLhyphen"/>ment; who upon the report, order'd <hi>Iuly</hi> 25. 1653. that I ſhould appear before the ſame Committee the next day, which was <hi>Tueſday</hi> following, at 3 in the after<g ref="char:EOLhyphen"/>noon, and bring with me <hi>a perfect Liſt of the names, ſir-names, places of laſt aboad of all the priſoners in cuſtody, ſince the laſt liſt in print; together with all Bonds, Statutes, Judgements, Warrants of Atturney to acknowlede judge<g ref="char:EOLhyphen"/>ments to Creditors, or others in their behalf.</hi>
+            </p>
+            <p>Hereupon I petitioned the Committe, <hi>Tueſday July</hi> 26. 1653. in regard I had not received their Or<g ref="char:EOLhyphen"/>der till late, and that I was threatned to be arreſted for ſeveral ſums of mony, as I gave my attendance, That I might either be exempted from perſonal at<g ref="char:EOLhyphen"/>tendance, or elſe be protected from arreſts; that I might have copies of reports and Petitions, and be admitted to put in my defence in writing, or by my Counſel. But being expreſly commanded to attend the <hi>Thurſday</hi> after, I accordingly did ſo, and carried in the Liſt; but ſhew'd them that I could not deliver in the Bonds, by reaſon they were the onely ſecuri<g ref="char:EOLhyphen"/>ty which enabled me to perform ſeveral truſts ſetled out of the Office, and the onely defence I had againſt all eſcapes, ſued and to be ſued. But the Committee preſſ'd me for a poſitive anſwer, whether I would deliver them or no; and though I Petitioned for it, would grant me no longer time then the next morn<g ref="char:EOLhyphen"/>ing for my poſitive anſwer; which I was to deliver to the Chairman by 10 of the clock. According to the appointment, next morning, being <hi>Friday,</hi> I deli<g ref="char:EOLhyphen"/>vered a letter to the Chairman, with a paper of Rea<g ref="char:EOLhyphen"/>ſons
+<pb n="12" facs="tcp:56928:8"/>encloſed, why I could not in diſcretion and ſafety deliver in the Bonds: both which, ſince I am ſo much concerned in them, for better ſatisfaction follow thus.</p>
+         </div>
+         <div type="answer">
+            <head>THE HUMBLE ANSWER OF Sir JOHN LENTHAL Knight, Marſhal of the Upper-Bench Priſon.</head>
+            <p>IN obedience to the commands of this Honourable Commit<g ref="char:EOLhyphen"/>tee, whoſe perſons and power in all humility I ever ſhall have in high eſteeme, I humbly offer, That the poſsibility that the Marſhall of the Upper Bench hath for the preſervation of ſuch Priſoners as ſhall be thereunto Committed, (by rea<g ref="char:EOLhyphen"/>ſon of the ſmalneſs and unſafeneſs of the Priſon,) are onely ſuch Collateral ſecurities as by his own induſtry and endea<g ref="char:EOLhyphen"/>vours he can obtaine from perſons that ſhall engage for the true impriſonment of the Priſoners; which ſecurities (howſoever good in Law, as he humbly concieves) are onely particularly belonging to himſelf, and to his own private Eſtate, and to ſuch others as have likewiſe intereſt in thoſe ſecurities as well as himſelf, and no way concerning the publick intereſt; And by the Law of this Land are diſpoſable by him, and ſuch other particular perſons to whom they in right and equity do belong, as any other per<g ref="char:EOLhyphen"/>ſonal ſecurities to any other particular perſon: That this preſent Parliament by their moſt pious and religious Decla<g ref="char:EOLhyphen"/>ration
+<pb n="13" facs="tcp:56928:8"/>lately ſet forth, to the contentment of many thouſands of this Nation, encourages him (with all thankfall acknow<g ref="char:EOLhyphen"/>ledgement) to aſſure himſelf, That as the Parliament, the higheſt and ſupream power of the Nation, hath declared, that they will be as tender of Lives, Eſtates, Liberties, juſt Rights and Properties of all others, as they are of them<g ref="char:EOLhyphen"/>ſelves and their Poſterities; ſo this Honourable Com<g ref="char:EOLhyphen"/>mittee, who are a part of that honorable Body, will not be offended, if he the ſaid Sir <hi>John Lenthall</hi> ſhall on his and the others behalf, preſume upon that Honourable favour and grace, which the ſaid Parliament hath with ſuch abundant care offered to the People; and therefore can<g ref="char:EOLhyphen"/>not in juſtice or equity deliver up ſuch ſecurities, which can<g ref="char:EOLhyphen"/>not be uſefull or advantagious unto him by the Law (as ap<g ref="char:EOLhyphen"/>pears by his former Reaſons humbly offered to the Commit<g ref="char:EOLhyphen"/>tee, and other grounds) if taken from him, without a particular Act of Parliament therein to relieve him. This being thus humbly offered, without the leaſt diſregard to the power of this Committee, or diſreſpect to any of their perſons, whom, as becomes him, in the place wherein God hath pla<g ref="char:EOLhyphen"/>ced you, he ſhall ever honour. This, in all humility aſſuring himſelf of juſtice and equity according to the known right of Law and Property.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>July 29. 1653.</hi>
+                  </date>
+               </dateline>
+               <signed>John Lenthall.</signed>
+            </closer>
+         </div>
+         <div type="reasons">
+            <pb n="14" facs="tcp:56928:9"/>
+            <head>Reaſons humbly offered and preſented to the honourable <hi>Committee</hi> for <hi>Priſons</hi> and <hi>Priſoners,</hi> wherefore the <hi>Bonds</hi> and <hi>Securities</hi> taken for the true impriſonment of <hi>Priſoners</hi> by Sir <hi>JOHN LENTHAL</hi> Knight, Marſhal of the <hi>Upper Bench</hi> Pri<g ref="char:EOLhyphen"/>ſon, cannot ſafely be delivered out of Sir <hi>JOHN LENTHALS</hi> hands.</head>
+            <list>
+               <item>1. FOr that many of the ſaid <hi>Bonds</hi> and ſecurities, upon eſcapes made, are already delivered to <hi>Creditors,</hi> thereby to recover their debts due from the Priſoners; And Sir <hi>John</hi> ſtands engaged by his promiſe to deliver divers more.</item>
+               <item>2. For that aſſoone as the Priſoners ſhall take no<g ref="char:EOLhyphen"/>tice their ſecurities are out of Sir <hi>Iohn Lenthals</hi> power, they will and may take <hi>Eſcapes;</hi> and Sir <hi>Iohn</hi> having no other way to reſtrain them, or to ſecure himſelf, other then by his bonds and ſecurities, ſhall be left without remedy.</item>
+               <item>3. For that there now being ſeverall Actions of eſcape depending againſt Sir <hi>Iohn Lenthal,</hi> amounting
+<pb n="15" facs="tcp:56928:9"/>to 10000. <hi>l.</hi> and ſeverall recoveries had; Sir <hi>Iohn</hi> hath no other means to ſecure his perſon and eſtate from the ſaid Actions, and recoveries, but by the ſaid bonds and ſecurities, many of which he hath delivered to his Attornies to put in ſuit, to be indem<g ref="char:EOLhyphen"/>nified from the ſaid Actions and recoveries.</item>
+               <item>4. For that the ſaid Bonds and ſecurities are made to him in his name, for his indemnity, and ſuable onely by him, and in his name; and can onely be releaſed by him.</item>
+               <item>5. For that the ſaid Bonds, <hi>&amp;c.</hi> are not forfeited or to be ſued untill after eſcapes brought againſt Sir <hi>Iohn Lenthall;</hi> ſo that if the ſame ſhould be delivered out of his hands, the <hi>Priſeners, Creditors, Sureties,</hi> and Sir <hi>Iohn Lenthall,</hi> may be much damnified.</item>
+               <item>6. For that upon the diſcharge of Priſoners, (which is daily) the ſaid bonds and ſecurities are to be deli<g ref="char:EOLhyphen"/>vered up, otherwiſe the ſureties may be indangered, and the Priſoner damnified upon his counter ſecuri<g ref="char:EOLhyphen"/>ty given by him to his ſureties.</item>
+               <item>7. For that every defendant hath liberty to crave <hi>Oyer</hi> of the condition of the bond upon which he is ſued, before he plead; which Sir <hi>Iohn</hi> not having in his hands to produce, will be delayed in his ſuit, or loſe the benefit of his Actions.</item>
+               <item>8. For that the Bonds and ſecurities taken for true impriſonment, are Sir <hi>Iohn Lenthals</hi> undoubted
+<pb n="16" facs="tcp:56928:10"/>
+                  <hi>right</hi> and <hi>property,</hi> which he hopeth this Honorable Committee will inviolably defend.</item>
+               <item>9. For that the ſureties, who are moſt of them <hi>Tradeſmen</hi> in this City, and live by their <hi>Credits,</hi> and will be bound for a Priſoners true impriſonment, when they will not be bound with him for any mo<g ref="char:EOLhyphen"/>ny, when they ſhall perceive their names are publiſh<g ref="char:EOLhyphen"/>ed, and their bonds put to other uſes then they inten<g ref="char:EOLhyphen"/>ded them, will preſently call in their bonds; and that will be a means to deter all others from being bound: which will prove a very great prejudice to the Creditor.</item>
+               <item>10. For that ſuch bonds and Securities as are in Sir <hi>Iohn</hi>'s hands were given to him by the Priſoner and his fureties, by way of truſt, and upon condition that no <hi>uſe</hi> ſhall be made thereof but in caſe of <hi>Eſcape;</hi> And therefore the Priſoner having made no eſcape, Sir <hi>Iohn</hi> cannot without breach of truſt part with their ſecurities.</item>
+            </list>
+            <p>The morrow after, which was Saturday the 30 of July, the <hi>Houſe</hi> was made acquainted with this my Anſwer, who thereupon made an Order for my commitment to the Serjeant at Arms, and another Order that Serjeant <hi>Dendy</hi> ſhould take the care and cuſtody of the Priſoners, which he accordingly did, my ſelf being apprehended with a warrant from Ser<g ref="char:EOLhyphen"/>jeant <hi>Birkhead,</hi> under which durance I now continue; though I could heartily beſeech them, in regard of the multiplicity of the troubleſome and entangled
+<pb n="17" facs="tcp:56928:10"/>buſineſſes that lie upon me, and for that I know not what may be brought out againſt me, having had ſo many yeers to do in a troubleſome Office, to be pleaſed for to take off this reſtraint from me: which certainly as I cannot ſee what prejudice could ariſe from it, all my eſtate and livelyhood lying at the ſtake, and it concerning me ſo neerly to make out my intereſt; ſo were it to me a deed of very great mercy and compaſſion. For as it would be a means to ſave me from a great charge, which, in the miſe<g ref="char:EOLhyphen"/>rable condition I am in, lies heavy upon me; ſo would it enable me to go about to make ſuch defence againſt what may be brought againſt me in behalf of the <hi>Commonwealth,</hi> as that I may thereby enjoy the be<g ref="char:EOLhyphen"/>nefit of the <hi>Law,</hi> &amp; the <hi>freedom</hi> of a native <hi>Engliſhman.</hi>
+            </p>
+            <p>For my offences, as they are alledged, falling under the two heads of <hi>Miſdemeanour</hi> and <hi>Felony,</hi> I ſhall humbly ſubmit my ſelf to any fair and legall way of Tryal. If they be meerly <hi>Miſdemeanors,</hi> (in caſe there be any) they are pardoned by the <hi>Act</hi> of <hi>Oblivion,</hi> as I conceive. And I could heartily wiſh they in their wiſdomes were ſatisfied that this re<g ref="char:EOLhyphen"/>ſtraint upon me were not needful. For they having the Priſon, which is both my livelyhood and purchaſed inheritance, in their hands, it is not to be conceived that I ſhould flinch for it, but endeavour by aſſer<g ref="char:EOLhyphen"/>ting of my innocency to them, to recover my own right. Reſides, if theſe were ſo many ſummed up to<g ref="char:EOLhyphen"/>gether, as might render me in their Judgements unfit for the exerciſe of that Truſt, they ſhould ſequeſter the Office at laſt, and then I hope I might obtain that mercy from them, which was never denied to
+<pb n="18" facs="tcp:56928:11"/>their actuall Enemies, it being my inheritance by Letters Patents under the great Seal of <hi>England,</hi> and purchaſed by me at a great rate. But I am more unfortunate; for upon Mr <hi>Fountaines</hi> bare <hi>Report</hi> and proſecution, I am deprived of the execution of my Office, and the ſecurities are demanded of me; which if I give up, I ſhould be left naked of my defence, and I cannot tell how many Bills may be filed a<g ref="char:EOLhyphen"/>gainſt me before the next Term, and that there may be ſo much recovered againſt me, as may ruine me and my poſterity, forty times worſe then I am alrea<g ref="char:EOLhyphen"/>dy. But I ſhall ſay only this by the way, that if it be my miſ-hap to be the miſerable <hi>Preſident</hi> in this caſe, in what doubt it will leave all other Officers, who have acted according to the old Lawes, and what ſecurity they can imagine to themſelves, if upon every alteration, or rather, intention of alte<g ref="char:EOLhyphen"/>ration, they ſhall be called in queſtion for Actions done by vertue of <hi>Lawes</hi> in force. For my part, what I did in the execution of my Office, was nothing but what the <hi>Rules</hi> of the Court, (to which I was a ſervant) <hi>permitted,</hi> what my <hi>Predeſſors</hi> had conſtantly <hi>practiſed,</hi> and what was not againſt the <hi>Laws</hi> that then ſtood. If <hi>Accident,</hi> or <hi>Negligence</hi> of Servants ever occaſioned any miſcarriage, I appeale to any man who hath evicted me by Law, whether I have not ſatisfied him. Now if the Parliament in their wiſdome think fit, that for the future that Priſon be kept by other Rules, and that the preſent Liber<g ref="char:EOLhyphen"/>ties be retrenched, for my part I ſhall with all rea<g ref="char:EOLhyphen"/>dineſs endeavour an Obedience, when I ſhall know what to do. For as it is not juſt to puniſh a man for
+<pb n="19" facs="tcp:56928:11"/>treſpaſſing againſt a Law not made; ſo it is but common prudence to be directed by thoſe Laws that are already in force.</p>
+            <p>If I am to be tryed as a <hi>Felon,</hi> I ſhall beg that ac<g ref="char:EOLhyphen"/>cording to cuſtome, I ſhould rather be committed to the publick Goal, then left in a Meſſengers hands, and the informers bound over to proſecute; and for my part, I am ſo ſecur'd of my innocency, that I ſhall alwaies make it my buſineſs to deſire the haſt<g ref="char:EOLhyphen"/>ning of a fair &amp; a legal Tryal; only this I hope I may ſay, that it will be ſomewhat hard for any man to know when he is ſecure from any ſlanderous or ma<g ref="char:EOLhyphen"/>licious accuſation, when the ſame things, and that by the ſame men, may be ſet afoot again, after they had been quaſh'd by the votes of the Parliament, the Councel of Officers, and two ſeveral Committees.</p>
+            <p>Yet under this reſtraint have I patiently endured ever ſince my commitment, with a reſolution quiet<g ref="char:EOLhyphen"/>ly to wait, till it pleaſe God to move the hearts of the Parliament to conſider my innocency. In the mean time, I ſhall chearfully obey, however they ſhall diſpoſe of me, and I ſhall receive all their commands with the due obedience I ought: and truely for my part I ſhould not delay the delivering of the Bonds two houres, if it were not clear unto me that my ruine would immediately follow upon it. And though I am very willing, as I have often ſaid, for to conform my ſelf to all their commandments; yet I could wiſh that Serjeant <hi>Dendy,</hi> whom they have em<g ref="char:EOLhyphen"/>ploy'd in taking care of the Priſon, did not ſeem to be of opinion that I am alſo committed to his tuition;
+<pb n="20" facs="tcp:56928:12"/>for methinkes his Letter of <hi>Aug.</hi> 6. 1653. ſpeaks ſomewhat to that purpoſe.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Theſe for Sir <hi>John Lenthal Knight, at</hi> Lambeth Marſh.</head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I acquainted the Committee the other day, with your anſwer, with which they were ſo much diſſatiſ<g ref="char:EOLhyphen"/>fied, as that they reſolved to report your contempt to the Parliament; yeſterday they ſate not, but ad<g ref="char:EOLhyphen"/>journed till this afternoon, till when I deſired they would forbear acquainting the Houſe, for that you promiſed you would do your endeaveavour; of which if you give not a real proof, by a return of the Books wherein all the names of your Priſoners, with their ſecurities and places of aboad are, it will be in vain for you to think of ſecuring your ſelf by a refuſal. Sir, The complaints of ſeveral Creditours undone by you, are very great; and our Law you know hath condemn'd many a man, who thereupon hath ſuffered death, though but for the value of a Sheep. Therefore all things conſidered, it concerns you not to contemn any longer the Authority of the Parliament, who if incenſed, as you give them juſt cauſe to be, neither you nor yours know what evil to them a day may bring forth—. Sir, The Com<g ref="char:EOLhyphen"/>mittee being to meet this afternoon, between 2 and 3 a clock, I have ſent the Bearer on purpoſe to receive your anſwer, which is expected from you by</p>
+                  <closer>
+                     <dateline>
+                        <date>6 <hi>Aug.</hi> 1653.</date>
+                     </dateline>
+                     <salute>Sir,</salute>
+                     <signed>Your humble Servant, E. Dendy.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="21" facs="tcp:56928:12"/>
+            <p>And now ſince I have thrown open my condition ſo nakedly, I leave it to any man to judge whether or no it deſerve not pity, my ſelf and family being by this means at the very brink of ruine, and that with ſuch variety of circumſtances, as a man can<g ref="char:EOLhyphen"/>not ſit down to number them. Yet am I prepar'd with all ſubmiſſion to the Parliament, and hope God will ſo carryon the inclinations of <hi>Iuſtice,</hi> as that in his good time they will take into conſideration my <hi>Innocency,</hi> and withall the number of innocent perſons that will be involv'd in my ruine; and there<g ref="char:EOLhyphen"/>fore ſo mix their <hi>Iuſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> with <hi>Mercy,</hi> as to reſtore me to my <hi>Liberty</hi> and juſt inheritance.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
